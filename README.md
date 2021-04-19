@@ -22,7 +22,7 @@ TO RUN THE APP ON YOUR MACHINE YOU MUST HAVE THE FOLLOWING INSTALLED
   * Yarn  https://classic.yarnpkg.com/en/docs/install
 
 IF BOTH HAVE BEEN SUCCESSFULY INSTALLED;
-  download this repository to your machine, navigate unzip and navigate to the
-  folder. Run 'rails s' to start the local server http://localhost:3000/
+  download this repository to your machine, unzip and navigate to the friends
+  folder in the terminal. Run 'rails  s' in the terminal to start the local server at http://localhost:3000/
 
   ENJOY!!  
