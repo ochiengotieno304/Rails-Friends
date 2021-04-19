@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A SIMPLE WEB APP BUILT ON RAILS USING THE RUBY LANGUAGE
+IT COVERS MOST OF THE COMMON MVC CONCEPTS
 
-Things you may want to cover:
+Try it out at https://rapidfriends.herokuapp.com/
 
-* Ruby version
+* Ruby version is 3.0. 1
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Rails version 6.1.3.1
 
 * ...
+
+TO RUN THE APP ON YOUR MACHINE YOU MUST HAVE THE FOLLOWING INSTALLED
+
+  * Ruby https://rubyinstaller.org/
+
+  * SQLite3 https://www.sqlite.org/
+
+  * Node.js https://nodejs.org/en/download/
+
+  * Yarn  https://classic.yarnpkg.com/en/docs/install
+
+IF BOTH HAVE BEEN SUCCESSFULY INSTALLED;
+  download this repository to your machine, navigate unzip and navigate to the
+  folder. Run 'rails s' to start the local server http://localhost:3000/
+
+  ENJOY!!  
